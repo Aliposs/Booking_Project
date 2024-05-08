@@ -1,6 +1,4 @@
 import "./list.css";
-import Navbar from "../components/navbar/Navbar";
-import Header from "../components/header/Header";
 import { useState } from "react";
 import { DateRange } from "react-date-range";
 import { useLocation } from "react-router-dom";
